@@ -16,6 +16,6 @@ void main() async {
     BlocProvider(
       create: (context) => serviceLocator<ProductBloc>(),
       child: const MyApp(),
-    ),
+      ),
   );
 }
