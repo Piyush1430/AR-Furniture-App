@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045304878708",
+    "project_id": "arfurniture-def6d",
+    "storage_bucket": "arfurniture-def6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045304878708:android:3e6f801e4208bbe89c9321",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCubFro1ygqSxyldPB7T5Vl9qkeu8Hd80o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
